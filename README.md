@@ -5,7 +5,7 @@ Link (Cafe24)  - http://ryukevin.cafe24app.com/ <br>
 
 ---------------------------------
 
-프로젝트 명 : Glow Resort
+프로젝트 명 : Samsung
 
 ---------------------------------
 
